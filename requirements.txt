@@ -1,0 +1,4 @@
+aiogram
+httpx
+python-dotenv
+apscheduler
